@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is Jake Roman.
+Hi! My name is Jake Roman
 
 ### Development Environment
 
