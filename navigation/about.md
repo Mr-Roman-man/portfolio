@@ -99,17 +99,12 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
-
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
+- Before I went to Del Norte I used to go to a Catholic School named St. Michaels
+- St. Michaels provided my elementary and middle school life
+- Since 1st grade I have been playing piano with my teacher, I am still not the best
+- During this time I also went to a coding school that was outside of St. Michaels
+- I also became a Boy Scout during middle school, which I am still continuing for Eagle
+- Then I came to Del Norte where I am now
 
 ### Culture, Family, and Fun
 
