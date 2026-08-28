@@ -83,14 +83,14 @@ Flags are made using Wikipedia images
         var description = document.createElement("p");
         description.textContent = location.description; // extract the description
 
-        // Add "p" HTML tag for the greeting
-        var greeting = document.createElement("p");
-        greeting.textContent = location.greeting;  // extract the greeting
+        // Add "p" HTML tag for the rating
+        var rating = document.createElement("p");
+        rating.textContent = location.rating;  // extract the rating
 
         // Append img and p HTML tags to the grid item DIV
         gridItem.appendChild(img);
         gridItem.appendChild(description);
-        gridItem.appendChild(greeting);
+        gridItem.appendChild(rating);
 
         // Append the grid item DIV to the container DIV
         container.appendChild(gridItem);
