@@ -117,16 +117,10 @@ I was born on June 8, 2010 and I have 5 brothers. I live in California and I fre
 Gallery of Pictures
 </comment>
 <div class="image-gallery">
-  <img src="" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="{{site.baseurl}}/images/about/Family.jpeg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/Deer.jpeg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/Graduation.jpeg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/Bowling.jpeg" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/AnotherDear.jpeg" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/Helmet.jpeg" alt="Image 6">
 </div>
