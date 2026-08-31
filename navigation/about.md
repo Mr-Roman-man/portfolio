@@ -108,17 +108,16 @@ Flags are made using Wikipedia images
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
+I was born on June 8, 2010 and I have 5 brothers. I live in California and I frequently talk to my extended family.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- Both of my parents are Philippino and they moved here when they were about my age.
+- My family loves to hold big parties with the whole extended family whether it be for a     holiday or another occation, like sports.
 
 <comment>
-Gallery of Pics, scroll to the right for more ...
+Gallery of Pictures
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
+  <img src="" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
