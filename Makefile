@@ -6,7 +6,9 @@ PYTHON := venv/bin/python3
 SHELL = /bin/bash -c
 .SHELLFLAGS = -e
 
-NOTEBOOK_FILES := $(shell find _notebooks -name '*.ipynb')
+# Root-site notebooks only. Project-generated notebooks live under _notebooks/projects/*
+# and are handled by the per-project Makefiles, not by the top-level convert target.
+NOTEBOOK_FILES := $(shell find _notebooks \( -path "_notebooks/projects" -o -path "_notebooks/projects/*" \) -prune -o -name '*.ipynb' -print)
 DESTINATION_DIRECTORY = _posts
 MARKDOWN_FILES := $(patsubst _notebooks/%.ipynb,$(DESTINATION_DIRECTORY)/%_IPYNB_2_.md,$(NOTEBOOK_FILES))
 
@@ -274,11 +276,11 @@ build: build-current
 # Multi-course file splitting
 split-courses:
 	@echo " ------ Splitting multi-course files... -------"
-	@python3 scripts/split_multi_course_files.py
+	@$(PYTHON) scripts/split_multi_course_files.py
 
 clean-courses:
 	@echo "🧹Cleaning course-specific files..."
-	@python3 scripts/split_multi_course_files.py clean
+	@$(PYTHON) scripts/split_multi_course_files.py clean
 
 # Notebook and DOCX conversion
 convert: $(MARKDOWN_FILES) convert-docx
